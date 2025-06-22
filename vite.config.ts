@@ -8,7 +8,7 @@ export default defineConfig({
     federation({
       name: 'main-app',
       remotes: {
-        musicLibrary: 'http://localhost:5001/assets/remoteEntry.js',
+        musicLibrary: 'https://music-library-finac-plus.netlify.app/assets/remoteEntry.js',
       },
       shared: ['react', 'react-dom']
     })
