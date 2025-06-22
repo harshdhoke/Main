@@ -3,12 +3,11 @@
 A React-based container application that integrates the Music Library micro frontend via Module Federation. It provides a login interface and hosts the music library with role-based UI controls using mock JWT authentication.
 
 ## Table of Contents
-
-- How to Run Locally
-- How It Was Deployed
-- Demo Credentials
-- Micro Frontend Architecture
-- Role-Based Authentication
+- [How to Run Locally](#how-to-run-locally)
+- [How It Was Deployed](#how-it-was-deployed)
+- [Demo Credentials](#demo-credentials)
+- [Micro Frontend Architecture](#micro-frontend-architecture)
+- [Role-Based Authentication](#role-based-authentication)
 
 ## How to Run Locally
 
