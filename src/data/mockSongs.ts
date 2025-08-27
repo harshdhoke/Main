@@ -6,6 +6,7 @@ export const mockSongs: Song[] = [
     title: 'Blinding Lights',
     artist: 'The Weeknd',
     album: 'After Hours',
+    ////
     duration: '3:20',
     year: 2019,
     genre: 'Pop',
