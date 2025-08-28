@@ -4,6 +4,7 @@ import { User, AuthContextType } from '../types';
 const AuthContext = createContext<AuthContextType | undefined>(undefined);
 
 // Mock users for demonstration
+// 
 const mockUsers: { [key: string]: { password: string; user: User } } = {
   admin: {
     password: 'admin123',
